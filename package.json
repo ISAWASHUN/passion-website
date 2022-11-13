@@ -13,7 +13,6 @@
     "@fortawesome/free-brands-svg-icons": "^6.2.0",
     "@fortawesome/free-solid-svg-icons": "^6.2.0",
     "@fortawesome/react-fontawesome": "^0.2.0",
-    "@next/swc-darwin-arm64": "^13.0.2",
     "next": "13.0.2",
     "node-darwin-arm64": "^18.9.0",
     "react": "18.2.0",
